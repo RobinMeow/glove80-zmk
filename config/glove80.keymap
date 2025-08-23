@@ -138,8 +138,8 @@
             bindings = <
 &trans      &trans           &trans            &trans             &trans                                                                                  &trans             &trans                &trans                 &trans         &trans
 &trans      &trans           &trans            &trans             &trans        &trans                                                         &trans     &trans             &trans                &trans                 &trans         &trans
-&caps_word  &kp AT_SIGN      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp QUESTION  &kp PERCENT                                                    &kp CARET  &kp LEFT_BRACE     &kp RIGHT_BRACE       &kp DOLLAR             &trans         &trans
-&trans      &kp EXCLAMATION  &kp LESS_THAN     &kp GREATER_THAN   &kp EQUAL     &kp AMPERSAND                                                  &kp HASH   &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON  &trans
+&caps_word  &kp AT_SIGN      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp QUESTION  &kp PERCENT                                                    &kp CARET  &kp LEFT_BRACE     &kp RIGHT_BRACE       &kp DOLLAR             &kp HASH       &trans
+&trans      &kp EXCLAMATION  &kp LESS_THAN     &kp GREATER_THAN   &kp EQUAL     &kp AMPERSAND                                                  &kp COLON  &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON  &trans
 &trans      &kp TILDE        &kp ASTERISK      &kp PLUS           &kp MINUS     &kp PIPE       &trans  &trans  &trans  &trans  &trans  &trans  &kp GRAVE  &kp UNDERSCORE     &kp COMMA             &kp PERIOD             &kp SLASH      &trans
 &trans      &trans           &trans            &trans             &trans                       &trans  &trans  &trans  &trans  &trans  &trans             &trans             &trans                &trans                 &trans         &trans
             >;
